@@ -8,7 +8,7 @@ console.log(" ")
 console.log("serviços oferecidos:")
 console.log(" ")
 console.log("Alarmes")
-var ala = 49;
+var ala = 100;
 console.log(" ")
 console.log("Cameras")
 var cam = 150;
